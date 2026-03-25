@@ -1,7 +1,7 @@
 # Computacao1
 Laboratório de Computação I
 
-Projeto de Gabriel Augusto Lourenço da Conceição, para a disciplina, Laboratório, de Computação I, pela Universidade Federal Rural do Rio de Janeiro.
+Projeto de Gabriel Augusto, para a disciplina, Laboratório, de Computação I, pela Universidade Federal Rural do Rio de Janeiro.
 
 O presente documento foi elaborado em linguagem C e a biblioteca SDL, em 2D.
 
